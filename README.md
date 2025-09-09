@@ -3,8 +3,9 @@
 This repo contains Jupyter notebooks for a **multi-window CT** pipeline and a custom **CNN** to perform **6-class** cerebral hemorrhage staging (course: Machine Learning I, MATH 7243).
 
 ## Authors
-Yixiao Zhang(zhang.yixiao1@northeastern.edu)
-Yunlong Jiao(jiao.yunl@northeastern.edu)
+-Yixiao Zhang(zhang.yixiao1@northeastern.edu)
+-Yunlong Jiao(jiao.yunl@northeastern.edu)
+
 ## Contents
 - `Prepare test.ipynb` – data loading & preprocessing (multi-window CT assembled as 4-channel inputs).
 - `Improve test.ipynb` – training experiments and regularization (e.g., dropout tuning).
